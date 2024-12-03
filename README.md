@@ -1,1 +1,1 @@
-# arena-kingdoms-bot
+# AK bot
